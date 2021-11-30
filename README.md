@@ -32,3 +32,5 @@ This is a Parking Lot Occupancy Detection project and developed with Java using 
 | ----------------------------------------------------------------------------- | -------------------------- |
 | Nur Syazarin Natasha Binti Abd Aziz                                           | syazarinnatasha@gmail.com  |
 | [Nur Intan Syaziera Binti Mohamad Salleh](https://github.com/intansyaziera)   | intansyaziera00@gmail.com  |
+
+[Slide presentation](https://docs.google.com/presentation/d/1FsM8t-EfXcAPi3Y7u-TtBs1sjjrBboCpO8zDvlw-x9M/edit?usp=sharing)
