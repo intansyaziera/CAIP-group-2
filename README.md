@@ -2,7 +2,7 @@
 
 This is a Parking Lot Occupancy Detection project and developed with Java using the [Deeplearning4j](https://github.com/eclipse/deeplearning4j) library. The project aims to detect parking lot by showing it using webcam. It also detect 2 types of parking lot, which is free and busy. 
 
-![Object detection on parking lot](https://drive.google.com/file/d/17FlJutcYYJHb4Ybm1OOW5Eqt2UFA34B2/view?usp=sharing)
+![Object detection on parking lot](https://media.giphy.com/media/dUM8o2NbBpzVWyV7xd/giphy.gif)
 
 ## Objectives
 
