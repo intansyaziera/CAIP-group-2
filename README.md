@@ -1,6 +1,8 @@
 # Parking Lot Occupancy Detection
 
-This is a Parking Lot Occupancy Detection project and developed with Java using the [Deeplearning4j](https://github.com/eclipse/deeplearning4j) library. The project aims to detect parking lot by showing it using webcam.
+This is a Parking Lot Occupancy Detection project and developed with Java using the [Deeplearning4j](https://github.com/eclipse/deeplearning4j) library. The project aims to detect parking lot by showing it using webcam. It also detect 2 types of parking lot, which is free and busy. 
+
+![Object detection on parking lot](https://drive.google.com/file/d/17FlJutcYYJHb4Ybm1OOW5Eqt2UFA34B2/view?usp=sharing)
 
 ## Objectives
 
@@ -23,12 +25,10 @@ This is a Parking Lot Occupancy Detection project and developed with Java using 
 
 1. Image Collection : Dataset of 150 images of hot wheel cars manually captured
 2. Image Labelling : Annotation on [Makesense.ai](https://www.makesense.ai/) and division of dataset into train and test images
-3. Model development : Transfer Learning from the adopted pre-trained Tiny-YOLO model
-4. Performance Evaluation : Display the results (Confidence Score of testing dataset)
 
 ## Group Members
 
-| Name                                                      | Email                      |
-| --------------------------------------------------------- | -------------------------- |
-| Nur Syazarin Natasha Binti Abd Aziz                       | syazarinnatasha@gmail.com  |
-| Nur Intan Syaziera Binti Mohamad Salleh                   | intansyaziera00@gmail.com  |
+| Name                                                                          | Email                      |
+| ----------------------------------------------------------------------------- | -------------------------- |
+| Nur Syazarin Natasha Binti Abd Aziz                                           | syazarinnatasha@gmail.com  |
+| [Nur Intan Syaziera Binti Mohamad Salleh](https://github.com/intansyaziera)   | intansyaziera00@gmail.com  |
